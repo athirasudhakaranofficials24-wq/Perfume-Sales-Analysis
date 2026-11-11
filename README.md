@@ -17,7 +17,7 @@ The dataset contains perfume sales information used for analyzing business perfo
 [View Dataset – Google Sheets](https://docs.google.com/spreadsheets/d/1Z6GdtC14zWHm4kyG-ZIzgVhcXRaR1poz/edit?usp=sharing)
 
 ## Dashboard Preview
-![Perfume Sales Dashboard](perfume_dashboard.png)
+![Perfume Sales Dashboard](perfume_dashboard.png.png)
 
 ## Key Analysis
 - Sales performance analysis
